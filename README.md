@@ -1,1 +1,1 @@
-﻿## A website for surabhi Technical fest Samyak-2025
+﻿## A website for Technical fest Samyak-2025
